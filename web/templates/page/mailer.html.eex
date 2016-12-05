@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>Untitled Document</title>
+</head>
+<body>
+
+<div style="width:100%;" align="center">
+
+<table width="600" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td align="left" valign="top" style="background-color:#eee;" bgcolor="#fff;">
+      <table width="100%" border="0" cellspacing="0" cellpadding="0">
+      <tr>
+        <td width="67" align="left" valign="top">&nbsp;</td>
+        <td width="465" align="left" valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <td align="left" valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="10">
+              <tr>
+                <td>
+                    <div> <img src="http://app.perfq.com/static/img/logos/perfq.png" alt="PerfQ" height="58" align="right" style="margin-right:100px;"></div>
+                </td>
+              </tr>
+            </table></td>
+          </tr>
+          <tr>
+            <td align="left" valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+              <tr>
+                <td align="left" valign="top" bgcolor="#fff"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <tr>
+                    <td width="10">&nbsp;</td>
+                    <td align="left" valign="top" style="color:#808080; font-size:12px; font-family:sans-serif, Arial, Helvetica;">
+                    <br>
+                    <br>
+                    <div style="font-size:24px;" align="center"><b>WELCOME!</b></div>
+                    <br>
+                                                            <br>                
+                    <div style="font-size:20px;" align="center"><b>Fullname <%= @nombre %></b></div>
+                    <br>                                                                                
+                    <br>
+                    <div style="font-size:12px;" align="center">Welcome to <b class="url-red"><a style="color:#CB5A5E;" href="#">PerfQ</a></b>, you are now part of the <b style="color:#CB5A5E;">NOMBRE DE LA ORGANIZACI&Oacute;N</b> team. Starting now, you can enjoy many benefits and tools which facilitate your daily work, allowing these tasks more enjoyable and entertaining.
+                    <br>
+                    These are your login credentials:
+                    </div>
+                    <br>
+                    <br> 
+                    <div style="font-size:16px;" align="center">
+                      <strong>Username:</strong> XXXXXXXX
+                      <br>
+                      <strong>Email:</strong> XXXXXXXX
+                    </div>
+                    <br>
+                    <br> 
+                    <div style="font-size:12px;" align="center">Please activate your account:</div>
+                    <br>
+                    <br> 
+                    <table width="50%" border="0" cellspacing="0" cellpadding="10" style="background-color:#337AB7; border-radius:6px;" align="center"> <!-- Lo cambiaremos por CSS -->
+                       <tr>
+                          <td align="center"><a style="text-decoration:none; font-size:16px; color:#fff;" href="www.perfq.com"><b>Activate your account</b></a></td>
+                      </tr>
+                    </table>
+                    <br>
+                    <br>
+                    <div style="font-size:12px;" align="center">If the link above does not work, please go to the following url:</div>
+                    <br>
+                    <br>
+                    <div align="center" ><a style="font-size:12px; color:#CB5A5E;" href="#">https://xxxxxxxxxxx</a></div>
+                    <br>
+                    <br> 
+                    <div style="font-size:12px;" align="center">
+                    We hope you are able to fulfill all your work successfully. If you have any problems or concerns, please send and email to <b><a style="font-size:12px; color:#CB5A5E;" href="mailto:support@perfq.com">support@perfq.com</a></div>
+                    <br>
+                    <br> 
+                  </tr>
+                </table></td>
+            </table>
+
+            <table width="100%" border="0" cellspacing="0" cellpadding="5"> <!-- Lo cambiaremos por CSS -->
+               <tr>
+                  <td><a style="font-size:11px; color:#CB5A5E; font-family:sans-serif, Arial, Helvetica;" href="#"> <b>perfq.com</b></a></td>
+                  <td><p style="font-size:11px; color:#808080; font-family:sans-serif, Arial, Helvetica;" align="right">This email is automatically generated; please don't reply</p></td>
+              </tr>
+              <tr>
+                  <td colspan="2" align="center"><a style="font-size:11px; color:#CB5A5E; font-family:sans-serif, Arial, Helvetica;" href="#" class="unsubscribe">Unsubscribe</a></td>
+              </tr>
+            </table>
+            <br/>
+          </tr>
+        </table></td>
+        <td align="left" valign="top">&nbsp;</td>
+      </tr>
+      </table>
+    </td>
+  </tr>
+</table>
+
+</div>
+
+</body>
+</html>
